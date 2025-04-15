@@ -79,9 +79,9 @@ Use slicers to explore complaint types and A/B group performance.
 
 ## Conclusion
 
--**Conducted a deep-dive analysis of customer satisfaction data.**
--**Identified root causes for CSAT fluctuations.**
--**Built an insightful and interactive dashboard.**
--**Developed a monitoring pipeline to catch issues early.**
+- Conducted a deep-dive analysis of customer satisfaction data.
+- Identified root causes for CSAT fluctuations.
+- Built an insightful and interactive dashboard.
+- Developed a monitoring pipeline to catch issues early.
 
 This project demonstrates the analytical thinking, product mindset, and technical skills required for a Data Analyst role in customer-centric platforms like Uber.
