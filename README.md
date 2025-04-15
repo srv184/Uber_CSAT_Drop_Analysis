@@ -8,14 +8,14 @@ This project dives deep into Uber's Customer Satisfaction (CSAT) trends, focusin
 
 - **Data Sources:** Based on user reviews, ratings, and complaint data from Uber rides.
 - **CSAT Drop Detected:** Between **Dec 1–20, 2024**, a sharp decline in CSAT scores was observed.
-- **Root Cause Analysis:** Driver behavior was identified as the main contributor to low scores.
-- **A/B Testing:** Tested impact of new feature (e.g., ETA transparency) — no significant CSAT difference found.
+- **Root Cause Analysis:** Driver behaviour was identified as the main contributor to low scores.
+- **A/B Testing:** Tested impact of the new feature (e.g., ETA transparency) — no significant CSAT difference found.
 - **Dashboard:** Real-time Power BI dashboard tracks CSAT, complaint types, and A/B test results.
 - **Automation:** Airflow DAG automates daily monitoring and triggers alerts on score drops or complaint spikes.
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 
 - **Data Analysis:** `Python`, `Pandas`, `NumPy`
 - **A/B Testing:** `SciPy`, `Statsmodels`
@@ -77,8 +77,8 @@ Use slicers to explore complaint types and A/B group performance.
 
 ---
 
-# Conclusion
-With this project, we have:
+## Conclusion
+
 -**Conducted a deep-dive analysis of customer satisfaction data.**
 -**Identified root causes for CSAT fluctuations.**
 -**Built an insightful and interactive dashboard.**
